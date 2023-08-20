@@ -1,2 +1,2 @@
 # Delta-Demo
-To pactice of Delta course.
+To Learn Github & Practice of Delta course. 
